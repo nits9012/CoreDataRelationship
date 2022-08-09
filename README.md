@@ -6,7 +6,7 @@ In this example I have created releationship between CDPerson and CDVehicle enti
 
 CDPerson entity
 
-<img src="Entities.png" width="500" height="300">
+<img src="CDPerson.png" width="500" height="300">
 
 CDVehicle entity
 
